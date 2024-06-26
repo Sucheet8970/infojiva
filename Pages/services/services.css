@@ -1,0 +1,11 @@
+/* -------- About Styling -------- */
+
+.About .Containers {
+    display: grid;
+    grid-template-columns: 5fr 5fr;
+    align-items: center;
+}
+
+.About .text {
+    margin: 3rem 04rem;
+}
